@@ -1,0 +1,2 @@
+module Luzene
+end
